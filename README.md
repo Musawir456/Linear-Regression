@@ -1,9 +1,9 @@
-📊 Linear Regression Project
+## 📊 Linear Regression Project
 
 This repository contains an end-to-end implementation of Simple Linear Regression using Python.
 The project demonstrates training a regression model, visualizing results, and making predictions using real datasets.
 
-📂 Project Files
+## 📂 Project Files
 
 1_Linear_regression.ipynb – Step-by-step implementation in Jupyter Notebook
 
@@ -19,7 +19,7 @@ prediction.csv – Model prediction output
 
 Image files – Visual explanations of regression concepts
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project explains:
 
@@ -39,7 +39,7 @@ House price prediction (Area vs Price)
 
 Canada per capita income trend analysis
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Python
 
@@ -53,7 +53,7 @@ Scikit-learn
 
 Jupyter Notebook
 
-▶️ How to Run
+## ▶️ How to Run
 1. Clone the repository
 git clone https://github.com/Musawir456/Linear-Regression.git
 cd Linear-Regression
@@ -70,7 +70,7 @@ Open: 1_Linear_regression.ipynb
 OR using Python script:
 
 python linearReg.py
-📊 Output
+## 📊 Output
 
 Regression line visualization
 
@@ -80,11 +80,11 @@ Income trend prediction
 
 Model coefficient and intercept
 
-🎯 Learning Purpose
+## 🎯 Learning Purpose
 
 This project helps in understanding the fundamentals of Machine Learning and builds a strong base for advanced algorithms.
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Abdul Musawir
 BS IT Student
